@@ -1,19 +1,45 @@
-# 🏛️ Olympus Corporation
+<p align="center">
+  <img src="https://i.postimg.cc/yx1nzJKy/logo.png?type=waving&color=auto&height=200&section=header&text=Olympus%20Corporation&fontSize=70&animation=fadeIn&fontAlignY=35" alt="Banner Olympus" />
+</p>
 
-### Inovação Tecnológica e Infraestrutura Sustentável no Agreste.
-
-Bem-vindo à holding tecnológica que integra soluções de software e hardware. Nossa missão é unir o poder da tecnologia com o impacto social e a soberania digital.
-
-## 🚀 Divisões e Projetos
-* **EduTech (CodePlay):** Ecossistema de ensino de programação com plataformas Web, Mobile e API proprietária em desenvolvimento.
-* **Entertainment (Olympus RP):** Gestão de servidores de alta performance e scripts customizados.
-* **Infraestrutura:** Planejamento de Data Center movido a energia solar em Jupi, PE.
-
-## 🛠️ Stack Tecnológica
-![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Ativo-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Localização-Jupi/PE-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Foco-Soberania_Digital-gold?style=for-the-badge" />
+</p>
 
 ---
-*© 2026 Olympus Corporation. Desenvolvendo o futuro diretamente de Jupi, Pernambuco.*
+
+### Ecossistema Ativo e Desenvolvimento
+
+#### 🎓 EduTech: Projeto CodePlay
+Solução educacional para o ensino de computação (**UPE**), focada em escalabilidade e experiência do usuário.
+* **CodePlay-web:** SPA construída em **Vue.js**.
+* **CodePlay-app:** Mobile nativo desenvolvido com **Flutter** e **Dart**.
+* **CodePlay-api:** Camada de serviços integrada ao **Supabase**.
+
+#### 🎮 Entertainment: Olympus RP & SamTune
+Desenvolvimento de sistemas exclusivos para comunidades e aplicações de mídia.
+* **Olympus Roleplay:** Criação de módulos e sistemas de jogo complexos utilizando **Lua** para **FiveM**.
+* **SamTune:** Aplicação pessoal de música com integração de backend via **Supabase**.
+
+#### 🤖 Future e AI (Research)
+* **Tufique AI:** Pesquisa e desenvolvimento de modelos utilizando **Python** para integração com a infraestrutura da organização.
+
+---
+
+### 🛠️ Stack Tecnológica Completa
+
+| Categoria | Tecnologias | Nível |
+| :--- | :--- | :--- |
+| **Frontend e Mobile** | `Vue.js` `Flutter` `Vite` | Produção |
+| **Languages** | `Lua` `Dart` `Python` `JS` | Core |
+| **Backend & Data** | `Supabase` `Node.js` `MariaDB` `PostgreSQL` | Infra |
+| **DevOps** | `Git` `Docker` `Linux` | Deploy |
+
+---
+
+<p align="center">
+  <b>© 2026 Olympus Corporation</b><br>
+  <i>Soberania Digital e Inovação.</i>
+</p>
