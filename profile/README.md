@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Ativo-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Localização-Jupi/PE-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Localização-Garanhuns/PE-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Foco-Soberania_Digital-gold?style=for-the-badge" />
 </p>
 
