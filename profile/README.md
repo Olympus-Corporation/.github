@@ -40,6 +40,6 @@ Desenvolvimento de sistemas exclusivos para comunidades e aplicações de mídia
 ---
 
 <p align="center">
-  <b>© 2026 Olympus Corporation</b><br>
+  <b>© 2026 Olympus Group</b><br>
   <i>Soberania Digital e Inovação.</i>
 </p>
